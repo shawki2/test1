@@ -1,0 +1,41 @@
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+
+body {  
+  margin-top:60px;
+}
+.center{  
+  text-align: center;
+}
+.aden0{
+  background-color: #d1d5d1;
+}
+p{
+    font-family: Lobster,Monospace,fantasy;
+  font-size: 13px;
+  font-style: italic;
+  line-height: 1.5em;
+  padding: 10px;
+}
+  .smaller-image {
+    width: 1200px;
+  }
+figcaption {
+    margin: 10px 0 0 0;
+    font-variant: small-caps;
+    font-family: Arial;
+    font-weight: bold;
+    color: #bb3333;
+}
+figure {
+    padding: 5px;
+}
+#images a{
+    display:inline-block;
+    color:black;
+ }
+.circle {
+    border-radius: 50%;
+}
+.greenb{
+    border: 2px solid green;
+}
