@@ -38,10 +38,3 @@ MIT License - fork, modify and use however you want.
 ## Authour
 
 Shawki
-
-the files are organised into containers which are the smart containers that manage state (only CakeList in this case) and dumb components
-
-### Screen shortcut:
-
-Inline-style:
-//![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
