@@ -28,7 +28,6 @@ This application matches word numbers to normal number. It does not accept to se
 
 I recreate the html in ReactJS and create two functions to deal with the user choices to select matching pairs (words and numbers).
 The application displays a congratulations message on successful completion of the activity.
-
 ### Future improvements
 
 I'd like to keep expanding this project to hone my existing skills, as well as to explore new technologies. Improve UI for better user experience
