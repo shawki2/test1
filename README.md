@@ -2,7 +2,6 @@
 
 # Word Match
 
----
 
 This interactivity application matches pairs word numbers to normal number. It does not accept to select two word numbers at the same time.
 
@@ -32,11 +31,11 @@ The application displays a congratulations message on successful completion of t
 
 I'd like to keep expanding this project to hone my existing skills, as well as to explore new technologies. Improve UI for better user experience
 
-### Licence
+## Licence
 
 MIT License - fork, modify and use however you want.
 
-### Authour
+## Authour
 
 Shawki
 
